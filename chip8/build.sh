@@ -1,0 +1,1 @@
+g++ -std=c++11 main.cpp chip8.cpp display.cpp keyboard.cpp memory.cpp timer.cpp -o ../Chip8Emu -lSDL2
