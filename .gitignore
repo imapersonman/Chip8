@@ -1,1 +1,4 @@
-Chip8.xcodeproj/*
+*.xcodeproj
+*.ttf
+Chip-8\ Pack/*
+ROMS/*
